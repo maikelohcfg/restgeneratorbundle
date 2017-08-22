@@ -12,7 +12,7 @@ A CRUD like REST Generator
 
 
 ## Installation
-Require the "voryx/restgeneratorbundle" package in your composer.json and update your dependencies.
+Require the "fenixst/restgeneratorbundle" package in your composer.json and update your dependencies.
 
 ```bash
 $ php composer.phar require voryx/restgeneratorbundle dev-master
